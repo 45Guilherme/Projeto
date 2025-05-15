@@ -17,6 +17,7 @@ int main() {
     exp = pow(a, b);
 
     cout << "Sum = " << sum << endl;
+    cout << "Subtraction = " << sub << endl;
 
 
     return 0;
