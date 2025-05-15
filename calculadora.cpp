@@ -18,8 +18,11 @@ int main() {
 
     cout << "Sum = " << sum << endl;
     cout << "Subtraction = " << sub << endl;
-
-
+    cout << "Multiplication = " << mul << endl;
+    cout << "Division = " << div << endl;
+    cout << "Modulus = " << mod << endl;
+    cout << "Exponentiation = " << exp << endl;
+    
     return 0;
 }
 
